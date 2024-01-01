@@ -6,6 +6,9 @@ public class motor2 {
 		System.out.println("3rd car is launched");
 		System.out.println("4th car is launched");
 		
+		
+		System.out.println("5rd car is launched");
+		System.out.println("6th car is launched");
 	}
 
 }
