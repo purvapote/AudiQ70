@@ -5,6 +5,7 @@ public class motor1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("1st car is launched");
+		System.out.println("2nd car is launched");
 	}
 
 }
