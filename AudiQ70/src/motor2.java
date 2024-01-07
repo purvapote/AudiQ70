@@ -15,6 +15,9 @@ public class motor2 {
 		
 		System.out.println("10 car is launched hinjewadi1");
 		System.out.println("11 car is launched hinjewadi1");
+		
+		System.out.println("13 car is launched hinjewadi1");
+		System.out.println("14 car is launched hinjewadi1");
 	}
 
 }
