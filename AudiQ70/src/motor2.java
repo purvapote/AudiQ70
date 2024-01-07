@@ -13,8 +13,8 @@ public class motor2 {
 		System.out.println("8rd car is launched kharadi");
 		System.out.println("9th car is launched kharadi");
 		
-		System.out.println("10 car is launched hinjewadi");
-		System.out.println("11 car is launched hinjewadi");
+		System.out.println("10 car is launched hinjewadi1");
+		System.out.println("11 car is launched hinjewadi1");
 	}
 
 }
